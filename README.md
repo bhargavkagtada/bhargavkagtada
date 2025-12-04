@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about open-source development, web technologies, and continuous learning.
 
-![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavkagtada&show_icons=true&theme=dracula)
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **React**, **Node.js**, and **cloud technologies**
@@ -23,8 +21,6 @@ Here are a few projects I'm proud to share:
 
 ## 🛠️ Skills & Tools
 
-## 🛠️ Skills & Tools
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
@@ -37,8 +33,7 @@ Here are a few projects I'm proud to share:
 ![AI Search](https://img.shields.io/badge/-AI%20Search-03C7C9?style=flat-square)
 
 ## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavkagtada&layout=compact&theme=dracula)
+![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavkagtada&show_icons=true&theme=dracula)
 
 ---
 
