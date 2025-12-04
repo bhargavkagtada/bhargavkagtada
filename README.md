@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about open-source development, web 
 - 🌱 I’m currently learning **React**, **Node.js**, and **cloud technologies**
 - 👯 I’m looking to collaborate on _interesting open-source projects_
 - 💬 Ask me about _web development, JavaScript, or GitHub workflows_
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhargavkagtada/) | [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhargav-kagtada/) | [Email](mailto:bhargav.kagtada@microsoft.com)
 
 ## 📌 Featured Projects
 
