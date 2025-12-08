@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about open-source development, web 
 
 ## About Me
 
-- 🌱 I’m currently learning **React**, **Node.js**, and **cloud technologies**
+- 🌱 I’m currently learning **React**, **Node.js**, and **container apps**
 - 👯 I’m looking to collaborate on _interesting open-source projects_
 - 💬 Ask me about _web development, JavaScript, or GitHub workflows_
 - 🎓 I hold a strong background in computer science and software engineering
