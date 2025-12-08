@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about open-source development, web technologies, and continuous learning.
 
-## 🚀 About Me
+## About Me
 
 - 🌱 I’m currently learning **React**, **Node.js**, and **cloud technologies**
 - 👯 I’m looking to collaborate on _interesting open-source projects_
