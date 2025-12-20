@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm passionate about open-source development, web 
 
 - 🌱 I’m currently learning **React**, **Node.js**, and **container apps**
 - 👯 I’m looking to collaborate on _interesting open-source projects_
-- 💬 Ask me about _web development, JavaScript, or GitHub workflows_
+- 💬 Ask me about Enterprise Architecture, AI Platforms, Data Platforms, Product Strategy or GitHub Spec Kit
 - 🎓 I hold a strong background in computer science and software engineering
-- 🧠 I enjoy exploring new technologies like **AI Search**, **Azure OpenAI**, and **Microsoft Fabric**
+- 🧠 I enjoy exploring new frameoworks like **Magentic*, **Github Workflows**, and **Event driven design thinking**
 - 🌎 I believe in the power of connecting communities through tech and mentorship
-- 🎯 My goal is to solve real-world problems with scalable software solutions
+- 🎯 My goal is to solve real-world problems with scalable **Dynamic** software
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhargav-kagtada/) | [Email](mailto:bhargav.kagtada@microsoft.com)
   
 ## 📌 Featured Projects
